@@ -1,0 +1,241 @@
+.start {
+    margin: 0;
+    padding: 0;
+    background-image: url(showcase.jpeg);
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow-y: hidden;
+}
+#text {
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem;
+    margin-top: 25vh;
+}
+h1 {
+    color: white;
+    font-size: 4rem;
+}
+h2 {
+    color: white;
+    font-size: 2rem;
+}
+.music{
+    font-size: 1.3rem;
+    color: white;
+}
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-color: #252529;
+    margin: 0;
+    color: #fff;
+    line-height: 1.6;
+}
+nav {
+    display: block;
+    unicode-bidi: isolate;
+}
+.bars {
+    width: 100%;
+    height: 40px;
+    background-color: #333;
+    color: rgb(51, 34, 34);
+    position: fixed;
+}
+.ul {
+    list-style: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+    zoom: 1;
+}
+.First-ul li{
+    line-height: 1.6;
+
+}
+nav li {
+    display: inline;
+    float: left;
+}
+li a {
+    display: block;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-right: 25px;
+    padding-left: 12px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+}
+nav li:hover {
+    background-color: #444;
+}
+.three {
+    max-width: 1180px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+.three-1 {
+    text-align: center
+    ;
+    font-size: 2.5rem;/
+}
+h3 {
+    font-size: 2rem;
+    text-align: center;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+#way {
+    font-size: 1.3rem;
+    text-align: center;
+    font-family: sans-serif;
+    max-width: max-content;
+}
+.Star-button {
+    margin-bottom: 1rem;
+    background-color: #b90415;
+    padding: 1rem;
+    color: #f4f4f4;
+    margin-top: 15px;
+}
+#light {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 45px;
+}
+img {
+    width: 100%;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+#Video {
+    background-color: #f4f4f4;
+    color: #333;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+a {
+    text-decoration: none;
+    color: #ccc;
+}
+.more {
+    padding: 1rem;
+    color: #fff;
+    background-color: #103063;
+    display: inline-block;
+    line-height: 1.6;
+}
+.more:hover {
+    background-color: rgb(77, 77, 255);
+    opacity: 0.8;
+}
+#Way {
+    font-size: 1.3rem;
+}
+.Tv {
+    font-size: 2rem;
+}
+.Enter {
+    background-image: url(section-bg.jpeg);
+    background-position-x: center;
+    background-position-y: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    padding: 10rem 0;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    unicode-bidi: isolate;
+}
+footer {
+    display: block;
+    unicode-bidi: isolate;
+}
+ul {
+    display: block;
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    unicode-bidi: isolate;
+}
+.gift-card {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: left;
+}
+#gift-cards {
+    background-color: #f4f4f4;
+    color: #333;
+}
+.set {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.footer-cols {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 2rem;
+    text-align: left;
+    font-size: 14px;
+}
+footer .footer-cols ul {
+    list-style: none;
+}
+footer .footer-cols ul li:first-child {
+    font-size: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: #444 solid 1px;
+    margin-bottom: 1rem;
+}
+.copy {
+    background: #333;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(51, 51, 51);
+    padding: 1rem;
+}
